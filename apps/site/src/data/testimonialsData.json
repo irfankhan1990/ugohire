@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Pete Jones",
+    "position": "Head of Marketing Build",
+    "date": "17 July 2022",
+    "excerpt": "Discovering UGO Hire was a turning point in my job search. The platform's user-friendly interface and extensive job listings made finding the perfect job effortless. I'm extremely grateful for the invaluable assistance it provided on my career journey!",
+    "user_image": "/assets/img/Pete-Jones.jpg"
+  },
+  {
+    "name": "Albert Flores",
+    "position": "Data Architect",
+    "date": "21 June 2022",
+    "excerpt": "I can't thank UGO Hire enough for their exceptional service. Their website is a treasure trove of job opportunities, and it made my job search efficient and effective. I landed my dream job, all thanks to this fantastic platform!",
+    "user_image": "/assets/img/Albert-Flores.jpg"
+  },
+  {
+    "name": "Ardin McCoy",
+    "position": "Network Administrator",
+    "date": "11 Jun 2022",
+    "excerpt": "UGO Hire exceeded my expectations in every way possible. The job listings are up-to-date, the search filters are user-friendly, and the support team is incredibly helpful. This website transformed my job search into a smooth and successful experience!",
+    "user_image": "/assets/img/Ardin-McCoy.jpg"
+  },
+  {
+    "name": "Hardware Engineer",
+    "position": "CEO",
+    "date": "28 Feb 2023",
+    "excerpt": "UGO Hire is allowing us to go through a large number of candidates with internal limited resources. We are able to do a first screening of candidates so much easier than if we had to meet everyone. We can truly identify and assess a talent pool more efficiently and have our talent ready to start in their new role faster.",
+    "user_image": "/assets/img/IMG-image-4.jpg"
+  }
+]
